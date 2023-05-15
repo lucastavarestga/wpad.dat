@@ -7,7 +7,7 @@ Baixe o arquivo "wpad.dat" e faça as modificações conforme sua necessidade.
 
 ### [Consulte a documentação](https://docs.netgate.com/pfsense/en/latest/recipes/http-client-proxy-wpad.html)
 
-### Qualquer dúvida, entre em contato sem problemas.
+### Qualquer dúvida, entre em contato.
 
 e-mail: lucastavarestga@gmail.com
 
